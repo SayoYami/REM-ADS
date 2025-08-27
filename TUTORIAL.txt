@@ -1,0 +1,28 @@
+━━━━━━━━━━━━━━━━━━━━━━
+📌 Instruções de Uso
+━━━━━━━━━━━━━━━━━━━━━━
+
+⚠️ Este projeto é protegido por sistema de verificação de tokens.
+- O uso não autorizado resultará no bloqueio imediato.
+- Tokens podem ser removidos a qualquer momento pelo dono.
+- Em caso de uso indevido ou vazamento, todos os arquivos serão deletados.
+
+━━━━━━━━━━━━━━━━━━━━━━
+▶️ Como iniciar a bot
+━━━━━━━━━━━━━━━━━━━━━━
+
+1. Abra o terminal na pasta da bot.
+2. Digite o comando abaixo:
+
+   sh sayomd.sh
+
+3. Aguarde a verificação de token.
+4. Caso o token seja válido, a bot iniciará normalmente.
+5. Caso contrário, os arquivos serão removidos.
+
+━━━━━━━━━━━━━━━━━━━━━━
+📅 Observação
+━━━━━━━━━━━━━━━━━━━━━━
+- Cada token possui uma data de expiração definida.
+- Após essa data, a bot não funcionará até que seja fornecido um novo token.
+━━━━━━━━━━━━━━━━━━━━━━
